@@ -14,7 +14,7 @@ const Navbar = (props: Props) => {
             <div className="flex items-center">
               <Link href="/">
                 <Image
-                  src="/assets/logo.png"
+                  src="/assets/Logo.png"
                   width={120}
                   height={120}
                   alt="logo"
