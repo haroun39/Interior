@@ -16,7 +16,7 @@ export default function AnimatedCounter({
   direction?: "up" | "down";
   className?: string;
 }) {
-  const ref = useRef<HTMLSpanElement>(null);
+  const ref = useRef<HTMLHeadingElement>(null);
   const motionValue = useMotionValue(direction === "down" ? value : 0);
   const springValue = useSpring(motionValue, {
     damping: 100,
