@@ -1,4 +1,4 @@
-<img src="[https://e-learning-nine-liart.vercel.app/assets/image2.png](https://raw.githubusercontent.com/haroun39/Interior/main/public/assets/smartmockups_lym5w3f6.jpg)"/>
+<img src="https://raw.githubusercontent.com/haroun39/Interior/main/public/assets/smartmockups_lym5w3f6.jpg"/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
